@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "install": "^0.13.0",
+    "react-router-dom": "^7.0.2",
+    "web-vitals": "^4.2.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
+}
